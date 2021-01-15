@@ -41,9 +41,6 @@ Explain how to run the automated tests for this system:
 ```
 Ctrl + Enter
 ```
-- The notebook will execute in Markdown form and include the visualization of the map.
-
-![alt](https://github.com/jackyhuynh/Route-Planner/blob/main/src/picture/map.PNG)
 
 ## Deployment
 
