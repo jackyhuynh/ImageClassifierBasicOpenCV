@@ -2,7 +2,9 @@
 
 
 ## Introduction
-This is a serial of Self-Driving Car technology (the image classifier using Open CV). This respo include small applications for image identifier, sorting, resize, modify, store and step by step to build the whole image classifier for self-driving car. 
+This is a serial of Self-Driving Car technology (the image classifier using Open CV). This respo include small applications for image identifier, sorting, resize, modify, store and step by step to build the whole image classifier that can apply to many image classifier. 
+
+![img](https://github.com/jackyhuynh/Image_Classifier_using_OpenCV/blob/main/images/Human.png)
 
 ## Technology
 - Python 
